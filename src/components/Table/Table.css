@@ -1,0 +1,51 @@
+.tableWalltet{
+  width: 95%;
+}
+
+.divBody ul {
+  background-color: rgb(169, 176, 183);
+  display: flex;
+  margin: 5px;
+  border-radius: 12px;
+  text-align: center;
+  height: 75px;
+ 
+  
+}
+
+.divBody li {
+  width: 100%;
+  list-style: none;
+  border: none;
+}
+
+.divBody p {
+  margin-bottom: 15px;
+}
+
+.divBody button {
+  margin-top: 30px;
+}
+
+.divBody button:hover {
+  cursor:pointer;
+}
+
+#buttonEditar {
+  background-color: green;
+  width: 65px;
+  height: 25px;
+  color: white;
+  margin:2px;
+  border-radius: 6px;
+}
+
+.buttonExcluir {
+  background-color: red;
+  width: 65px;
+  height: 25px;
+  color: white;
+  margin:2px;
+  border-radius: 6px;
+}
+

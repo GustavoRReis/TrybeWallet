@@ -1,0 +1,34 @@
+.formularioWallet {
+  height: 100%px;
+}
+
+.bodyWallterForm {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 400px;
+}
+
+.inputsWallet {
+  background-color:  rgb(169, 176, 183);
+  width: 250px;
+  height: 30px;
+  border-radius: 8px;
+  margin: 0 0 10px 0;
+}
+
+.bodyWallterForm button {
+  margin-top: 15px;
+  width: 250px;
+  height: 40px;
+  font-size: 16px;
+  border-radius: 8px;
+  color: white;
+  background-color: rgb(23, 106, 23);
+}
+
+.bodyWallterForm button:hover {
+  color:black;
+}

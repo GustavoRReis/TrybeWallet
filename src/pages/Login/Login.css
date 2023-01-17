@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+.mainLogin{
+  background-color: rgb(28, 30, 28);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bodyLogin {
+  width: 25%;
+  height: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(57, 60, 57);
+  border-radius: 50px;
+}
+
+.boxInputs {
+  height: 90%;
+  padding: 10px;
+ /*  border: red solid 2px; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.tittleLogin {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-weight: bold;
+  color: white;
+}
+
+.tittleLogin p {
+  font-size: 40px;
+  
+}
+
+.imagemLogin {
+  height: 350px;
+}
+
+.formLogin {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#email {
+  margin-top: 20px;
+}
+
+.inputsLogin input {
+  text-align: center;
+  border-radius: 8px;
+  margin: 5px;
+  border: none;
+  width: 250px;
+  height: 20px;
+  background-color: rgb(169, 176, 183);
+  color: black;
+}
+
+.inputsLogin button {
+  width: 250px;
+  height: 25px;
+  font-size: 16px;
+  border-radius: 8px;
+  color: white;
+  background-color: rgb(28, 30, 28);
+}
+
+.inputsLogin button:hover {
+  color: rgb(15, 165, 35);
+  cursor:pointer;
+}
+
+.rodapeLogin {
+  padding-top: 8px;
+  color: white;
+  white-space: normal;
+  width: 300px;
+  text-align: center;
+  font-size: 18px;
+}
+
+/* .rodapeLogin p {
+  text-align: center;
+  font-size: 18px;
+  
+} */

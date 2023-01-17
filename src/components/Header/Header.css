@@ -1,0 +1,17 @@
+.headerWallet {
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}
+
+.headerWallet img {
+  width: 200px;
+  height: 200px;
+
+}
+
+.headerWallet div {
+  margin: 14px;
+}
