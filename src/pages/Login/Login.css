@@ -41,12 +41,12 @@
 }
 
 .tittleLogin p {
-  font-size: 40px;
+  font-size: 36px;
   
 }
 
 .imagemLogin {
-  height: 350px;
+  height: 300px;
 }
 
 .formLogin {
@@ -85,7 +85,7 @@
 }
 
 .rodapeLogin {
-  padding-top: 8px;
+  padding-top: 6px;
   color: white;
   white-space: normal;
   width: 300px;
